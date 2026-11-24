@@ -1,0 +1,37 @@
+[
+ {
+  "name": "Web Development",
+  "icon": "Code2",
+  "text": "Build responsive sites with HTML, CSS, JavaScript and React."
+ },
+ {
+  "name": "App Development",
+  "icon": "Smartphone",
+  "text": "Create mobile apps with Flutter and other frameworks."
+ },
+ {
+  "name": "Artificial Intelligence",
+  "icon": "Sparkles",
+  "text": "Explore machine learning and AI-powered tools."
+ },
+ {
+  "name": "Python Programming",
+  "icon": "Terminal",
+  "text": "Learn Python through scripts, automation and projects."
+ },
+ {
+  "name": "UI/UX Design",
+  "icon": "Palette",
+  "text": "Design wireframes, prototypes and usable interfaces."
+ },
+ {
+  "name": "Data Science",
+  "icon": "BarChart3",
+  "text": "Analyse data, build charts and tell stories with numbers."
+ },
+ {
+  "name": "Digital Marketing",
+  "icon": "Megaphone",
+  "text": "Plan campaigns, content and search visibility."
+ }
+]

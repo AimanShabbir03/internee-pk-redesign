@@ -1,0 +1,26 @@
+{
+ "Software Engineering": [
+  "Tell me about a project you built and your role in it.",
+  "How do you debug a problem you have never seen before?",
+  "Describe a time you learned a new technology quickly.",
+  "How do you make your code easy for others to read?"
+ ],
+ "Product Management": [
+  "How would you decide which feature to build first?",
+  "Describe a time you handled disagreement in a team.",
+  "How do you measure whether a product is successful?",
+  "Tell me about a user problem you helped solve."
+ ],
+ "Business": [
+  "Why do you want to work in this field?",
+  "Describe a time you met a difficult deadline.",
+  "How do you prioritise when everything feels urgent?",
+  "Tell me about a result you are proud of."
+ ],
+ "Digital Marketing": [
+  "How would you grow a small page from zero?",
+  "Describe a campaign you planned or analysed.",
+  "How do you decide which channel to focus on?",
+  "Which metrics matter most and why?"
+ ]
+}

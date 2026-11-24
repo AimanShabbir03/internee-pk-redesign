@@ -1,0 +1,156 @@
+[
+ {
+  "id": 1,
+  "title": "Web Development Intern",
+  "category": "Web Development",
+  "meta": [
+   "1 month",
+   "Remote",
+   "Beginner"
+  ],
+  "summary": "Sample internship: complete guided web development tasks, get feedback and build a portfolio piece."
+ },
+ {
+  "id": 2,
+  "title": "Web Development Intern",
+  "category": "Web Development",
+  "meta": [
+   "2 months",
+   "Remote",
+   "Intermediate"
+  ],
+  "summary": "Sample internship: complete guided web development tasks, get feedback and build a portfolio piece."
+ },
+ {
+  "id": 3,
+  "title": "App Development Intern",
+  "category": "App Development",
+  "meta": [
+   "1 month",
+   "Remote",
+   "Beginner"
+  ],
+  "summary": "Sample internship: complete guided app development tasks, get feedback and build a portfolio piece."
+ },
+ {
+  "id": 4,
+  "title": "App Development Intern",
+  "category": "App Development",
+  "meta": [
+   "2 months",
+   "Remote",
+   "Intermediate"
+  ],
+  "summary": "Sample internship: complete guided app development tasks, get feedback and build a portfolio piece."
+ },
+ {
+  "id": 5,
+  "title": "Artificial Intelligence Intern",
+  "category": "Artificial Intelligence",
+  "meta": [
+   "1 month",
+   "Remote",
+   "Beginner"
+  ],
+  "summary": "Sample internship: complete guided artificial intelligence tasks, get feedback and build a portfolio piece."
+ },
+ {
+  "id": 6,
+  "title": "Artificial Intelligence Intern",
+  "category": "Artificial Intelligence",
+  "meta": [
+   "2 months",
+   "Remote",
+   "Intermediate"
+  ],
+  "summary": "Sample internship: complete guided artificial intelligence tasks, get feedback and build a portfolio piece."
+ },
+ {
+  "id": 7,
+  "title": "Python Programming Intern",
+  "category": "Python Programming",
+  "meta": [
+   "1 month",
+   "Remote",
+   "Beginner"
+  ],
+  "summary": "Sample internship: complete guided python programming tasks, get feedback and build a portfolio piece."
+ },
+ {
+  "id": 8,
+  "title": "Python Programming Intern",
+  "category": "Python Programming",
+  "meta": [
+   "2 months",
+   "Remote",
+   "Intermediate"
+  ],
+  "summary": "Sample internship: complete guided python programming tasks, get feedback and build a portfolio piece."
+ },
+ {
+  "id": 9,
+  "title": "UI/UX Design Intern",
+  "category": "UI/UX Design",
+  "meta": [
+   "1 month",
+   "Remote",
+   "Beginner"
+  ],
+  "summary": "Sample internship: complete guided ui/ux design tasks, get feedback and build a portfolio piece."
+ },
+ {
+  "id": 10,
+  "title": "UI/UX Design Intern",
+  "category": "UI/UX Design",
+  "meta": [
+   "2 months",
+   "Remote",
+   "Intermediate"
+  ],
+  "summary": "Sample internship: complete guided ui/ux design tasks, get feedback and build a portfolio piece."
+ },
+ {
+  "id": 11,
+  "title": "Data Science Intern",
+  "category": "Data Science",
+  "meta": [
+   "1 month",
+   "Remote",
+   "Beginner"
+  ],
+  "summary": "Sample internship: complete guided data science tasks, get feedback and build a portfolio piece."
+ },
+ {
+  "id": 12,
+  "title": "Data Science Intern",
+  "category": "Data Science",
+  "meta": [
+   "2 months",
+   "Remote",
+   "Intermediate"
+  ],
+  "summary": "Sample internship: complete guided data science tasks, get feedback and build a portfolio piece."
+ },
+ {
+  "id": 13,
+  "title": "Digital Marketing Intern",
+  "category": "Digital Marketing",
+  "meta": [
+   "1 month",
+   "Remote",
+   "Beginner"
+  ],
+  "summary": "Sample internship: complete guided digital marketing tasks, get feedback and build a portfolio piece."
+ },
+ {
+  "id": 14,
+  "title": "Digital Marketing Intern",
+  "category": "Digital Marketing",
+  "meta": [
+   "2 months",
+   "Remote",
+   "Intermediate"
+  ],
+  "summary": "Sample internship: complete guided digital marketing tasks, get feedback and build a portfolio piece."
+ }
+]

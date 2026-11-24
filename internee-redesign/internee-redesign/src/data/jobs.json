@@ -1,0 +1,156 @@
+[
+ {
+  "id": 1,
+  "title": "Frontend React Developer",
+  "category": "Web Development",
+  "meta": [
+   "Demo Tech Ltd",
+   "Remote",
+   "Full-time"
+  ],
+  "summary": "Sample listing: work on web development tasks with a small team. Replace this entry with real data in jobs.json."
+ },
+ {
+  "id": 2,
+  "title": "Full-Stack JavaScript Developer",
+  "category": "Web Development",
+  "meta": [
+   "Sample Labs",
+   "Karachi",
+   "Part-time"
+  ],
+  "summary": "Sample listing: work on web development tasks with a small team. Replace this entry with real data in jobs.json."
+ },
+ {
+  "id": 3,
+  "title": "Flutter App Developer",
+  "category": "App Development",
+  "meta": [
+   "Example Soft",
+   "Lahore",
+   "Contract"
+  ],
+  "summary": "Sample listing: work on app development tasks with a small team. Replace this entry with real data in jobs.json."
+ },
+ {
+  "id": 4,
+  "title": "Android Developer (Kotlin)",
+  "category": "App Development",
+  "meta": [
+   "Mock Digital",
+   "Islamabad",
+   "Full-time"
+  ],
+  "summary": "Sample listing: work on app development tasks with a small team. Replace this entry with real data in jobs.json."
+ },
+ {
+  "id": 5,
+  "title": "Machine Learning Engineer",
+  "category": "Artificial Intelligence",
+  "meta": [
+   "Placeholder Systems",
+   "Remote",
+   "Part-time"
+  ],
+  "summary": "Sample listing: work on artificial intelligence tasks with a small team. Replace this entry with real data in jobs.json."
+ },
+ {
+  "id": 6,
+  "title": "Prompt Engineer",
+  "category": "Artificial Intelligence",
+  "meta": [
+   "Demo Tech Ltd",
+   "Karachi",
+   "Contract"
+  ],
+  "summary": "Sample listing: work on artificial intelligence tasks with a small team. Replace this entry with real data in jobs.json."
+ },
+ {
+  "id": 7,
+  "title": "Python Backend Developer",
+  "category": "Python Programming",
+  "meta": [
+   "Sample Labs",
+   "Lahore",
+   "Full-time"
+  ],
+  "summary": "Sample listing: work on python programming tasks with a small team. Replace this entry with real data in jobs.json."
+ },
+ {
+  "id": 8,
+  "title": "Automation Engineer (Python)",
+  "category": "Python Programming",
+  "meta": [
+   "Example Soft",
+   "Islamabad",
+   "Part-time"
+  ],
+  "summary": "Sample listing: work on python programming tasks with a small team. Replace this entry with real data in jobs.json."
+ },
+ {
+  "id": 9,
+  "title": "Product Designer",
+  "category": "UI/UX Design",
+  "meta": [
+   "Mock Digital",
+   "Remote",
+   "Contract"
+  ],
+  "summary": "Sample listing: work on ui/ux design tasks with a small team. Replace this entry with real data in jobs.json."
+ },
+ {
+  "id": 10,
+  "title": "UX Researcher",
+  "category": "UI/UX Design",
+  "meta": [
+   "Placeholder Systems",
+   "Karachi",
+   "Full-time"
+  ],
+  "summary": "Sample listing: work on ui/ux design tasks with a small team. Replace this entry with real data in jobs.json."
+ },
+ {
+  "id": 11,
+  "title": "Data Analyst",
+  "category": "Data Science",
+  "meta": [
+   "Demo Tech Ltd",
+   "Lahore",
+   "Part-time"
+  ],
+  "summary": "Sample listing: work on data science tasks with a small team. Replace this entry with real data in jobs.json."
+ },
+ {
+  "id": 12,
+  "title": "BI Dashboard Developer",
+  "category": "Data Science",
+  "meta": [
+   "Sample Labs",
+   "Islamabad",
+   "Contract"
+  ],
+  "summary": "Sample listing: work on data science tasks with a small team. Replace this entry with real data in jobs.json."
+ },
+ {
+  "id": 13,
+  "title": "SEO Specialist",
+  "category": "Digital Marketing",
+  "meta": [
+   "Example Soft",
+   "Remote",
+   "Full-time"
+  ],
+  "summary": "Sample listing: work on digital marketing tasks with a small team. Replace this entry with real data in jobs.json."
+ },
+ {
+  "id": 14,
+  "title": "Social Media Manager",
+  "category": "Digital Marketing",
+  "meta": [
+   "Mock Digital",
+   "Karachi",
+   "Part-time"
+  ],
+  "summary": "Sample listing: work on digital marketing tasks with a small team. Replace this entry with real data in jobs.json."
+ }
+]

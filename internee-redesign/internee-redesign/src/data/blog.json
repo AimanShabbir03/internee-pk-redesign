@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "title": "How to pick your first tech track",
+  "category": "Career tips",
+  "excerpt": "A simple way to choose between web, data and design.",
+  "body": "List three things you enjoy doing, then match them to a track. Try a small task in each for a week, and keep the one that you keep returning to."
+ },
+ {
+  "id": 2,
+  "title": "Build a portfolio with small tasks",
+  "category": "Tech guides",
+  "excerpt": "Why many small projects beat one big unfinished one.",
+  "body": "Finish tasks end to end, write a short note about what you learned, and publish each one. Recruiters prefer visible, completed work."
+ },
+ {
+  "id": 3,
+  "title": "Interview preparation in one week",
+  "category": "Career tips",
+  "excerpt": "A day-by-day plan you can follow.",
+  "body": "Day 1-2: review your projects. Day 3-4: practise answers aloud. Day 5: mock interview. Day 6: fix weak spots. Day 7: rest."
+ },
+ {
+  "id": 4,
+  "title": "Python automation ideas for beginners",
+  "category": "Tech guides",
+  "excerpt": "Five tiny scripts that save real time.",
+  "body": "Rename files in bulk, merge spreadsheets, send reminder emails, resize images and scrape a page you read daily."
+ },
+ {
+  "id": 5,
+  "title": "Writing a one-page resume",
+  "category": "Career tips",
+  "excerpt": "Keep it short, specific and honest.",
+  "body": "Lead with skills and projects, add measurable results, and remove anything that doesn’t support the role you are applying for."
+ },
+ {
+  "id": 6,
+  "title": "What to expect in a virtual internship",
+  "category": "Announcements",
+  "excerpt": "Tasks, feedback and communication explained.",
+  "body": "You receive tasks, submit work, get feedback and improve. Clear communication matters as much as the code you write."
+ }
+]

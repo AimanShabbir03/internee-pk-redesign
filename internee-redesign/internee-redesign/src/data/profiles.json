@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "name": "Sample Intern A",
+  "track": "Web Development",
+  "tasks": 12,
+  "badges": [
+   "Fast learner",
+   "Clean code"
+  ]
+ },
+ {
+  "id": 2,
+  "name": "Sample Intern B",
+  "track": "App Development",
+  "tasks": 9,
+  "badges": [
+   "Problem solver"
+  ]
+ },
+ {
+  "id": 3,
+  "name": "Sample Intern C",
+  "track": "Data Science",
+  "tasks": 14,
+  "badges": [
+   "Data storyteller",
+   "Consistent"
+  ]
+ },
+ {
+  "id": 4,
+  "name": "Sample Intern D",
+  "track": "UI/UX Design",
+  "tasks": 8,
+  "badges": [
+   "Creative"
+  ]
+ },
+ {
+  "id": 5,
+  "name": "Sample Intern E",
+  "track": "Artificial Intelligence",
+  "tasks": 11,
+  "badges": [
+   "Curious"
+  ]
+ },
+ {
+  "id": 6,
+  "name": "Sample Intern F",
+  "track": "Digital Marketing",
+  "tasks": 10,
+  "badges": [
+   "Great communicator"
+  ]
+ }
+]

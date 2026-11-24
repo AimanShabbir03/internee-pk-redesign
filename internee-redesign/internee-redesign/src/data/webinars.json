@@ -1,0 +1,30 @@
+[
+ {
+  "id": 1,
+  "title": "Getting started with React",
+  "topic": "Web Development",
+  "days": 5,
+  "duration": "60 min"
+ },
+ {
+  "id": 2,
+  "title": "Intro to machine learning",
+  "topic": "Artificial Intelligence",
+  "days": 9,
+  "duration": "75 min"
+ },
+ {
+  "id": 3,
+  "title": "Design thinking for beginners",
+  "topic": "UI/UX Design",
+  "days": 14,
+  "duration": "60 min"
+ },
+ {
+  "id": 4,
+  "title": "Cracking your first interview",
+  "topic": "Career",
+  "days": 20,
+  "duration": "45 min"
+ }
+]
